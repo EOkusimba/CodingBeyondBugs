@@ -74,7 +74,7 @@ To run this project locally, follow these steps:
 
    ```bash
    git clone https://github.com/yourusername/CodingBeyondBugs.git
-   cd coding-beyond-borders-and-bugs
+   cd CodingBeyondBugs
 Open the Project:
 
 Open index.html in your web browser. For a smooth local development experience, we recommend using the Live Server extension in VS Code.
