@@ -46,11 +46,16 @@ Interactivity is a core component of the project. Visitors can customize the hea
 
 ## File Structure
 
-├── index.html # Homepage with introduction, hero image, and call-to-action button 
-├── story.html # Story page featuring a detailed narrative and navigation buttons 
-├── contact.html # (Optional) Sign Up page for user registration (linked via navigation) 
-├── style.css # Main stylesheet containing responsive and aesthetic styles 
-├── script.js # JavaScript file handling interactivity, animations, and local storage 
+├── index.html # Homepage with introduction, hero image, and call-to-action button
+
+├── story.html # Story page featuring a detailed narrative and navigation buttons
+
+├── contact.html # (Optional) Sign Up page for user registration (linked via navigation)
+
+├── style.css # Main stylesheet containing responsive and aesthetic styles
+
+├── script.js # JavaScript file handling interactivity, animations, and local storage
+
 └── README.md # This documentation file
 
 
