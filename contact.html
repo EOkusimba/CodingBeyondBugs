@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Sign up - Coding beyond borders and bugs</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <nav class="navbar">
+    <div class="nav-container">
+      <button class="menu-toggle" onclick="this.parentElement.classList.toggle('menu-open')">
+        <span class="hamburger"></span>
+      </button>
+      <div class="nav-links">
+        <a href="index.html" class="nav-link">Home</a>
+        <a href="story.html" class="nav-link">Story</a>
+        <a href="contact.html" class="nav-link">Sign Up</a>
+      </div>
+    </div>
+  </nav>
+
+  <header id="home" class="header">
+    <h1 class="header-title">Coding Beyond Borders and Bugs</h1>
+    <h2 class="header-subtitle">Can killing bugs make the world a better place?...</h2>
+    <button id="changeTextBtn">Change Subtitle</button>
+    <button id="changeColorBtn">Change Header Color</button>
+  </header>
+
+  <!-- New Form Section for interactive form validation -->
+  <section id="formSection" class="form-section">
+    <h2>Sign Up</h2>
+    <p class="sign-up-encouragement">
+      Join our vibrant community and unlock exclusive insights, tips, and the latest updates from the exciting world of coding!
+      Sign up today and take your coding journey to the next level.
+    </p>
+    <form id="sampleForm" novalidate>
+      <label for="emailInput">Email:</label>
+      <input type="email" id="emailInput" required placeholder="Enter your email" />
+      <small id="emailError" class="error"></small>
+      <br />
+      <label for="passwordInput">Password:</label>
+      <input type="password" id="passwordInput" required placeholder="At least 8 characters" />
+      <small id="passwordError" class="error"></small>
+      <br />
+      <button type="submit">Submit</button>
+    </form>
+  </section>
+
+  <footer id="copyright" class="footer">
+    <p>&copy; 2025 EOkusimba. All rights reserved.</p>
+  </footer>
+  <script src="script.js"></script>
+</body>
+</html>
