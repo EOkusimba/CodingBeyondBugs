@@ -1,5 +1,5 @@
 
-# CodingBeyondBugs
+# coding-beyond-bugs
 
 Welcome to **Coding Beyond Borders and Bugs** – a responsive, multipage blog website that celebrates tech journeys, coding adventures, and the inspiration behind innovative software development.
 
