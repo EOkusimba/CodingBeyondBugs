@@ -67,13 +67,13 @@ Interactivity is a core component of the project. Visitors can customize the hea
 
 ## Future Improvements
 
-**Expand Sign Up Functionality**: Incorporate back-end integration for user registration and authentication.
+1. **Expand Sign Up Functionality**: Incorporate back-end integration for user registration and authentication.
 
-**Enhanced Animations**: Explore more advanced transitions using additional CSS animations or JavaScript libraries.
+2. **Enhanced Animations**: Explore more advanced transitions using additional CSS animations or JavaScript libraries.
 
-**Additional Pages**: Consider adding more pages (e.g., Blog Post Archive, Contact Information, etc.) to expand the content.
+3. **Additional Pages**: Consider adding more pages (e.g., Blog Post Archive, Contact Information, etc.) to expand the content.
 
-**Accessibility Enhancements**: Continue improving the site for accessibility, including ARIA attributes and better keyboard navigation paths.
+4. **Accessibility Enhancements**: Continue improving the site for accessibility, including ARIA attributes and better keyboard navigation paths.
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
