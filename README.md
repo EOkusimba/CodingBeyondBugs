@@ -21,7 +21,7 @@ Welcome to **Coding Beyond Borders and Bugs** – a responsive, multipage blog w
 - (Optional) A **Sign Up/Contact** page referenced via the navigation bar for users who want to join our community.
 
 Interactivity is a core component of the project. Visitors can customize the header subtitle and background color (with animations), interact with an image gallery that cycles through images on click, and (if implemented) enjoy real-time form validation on the sign-up page.
-
+The site is live at https://eokusimba.github.io/coding-beyond-bugs/
 ## Features
 
 - **Responsive Design:**  
