@@ -1,5 +1,5 @@
-markdown
-# Coding Beyond Borders and Bugs
+
+# CodingBeyondBugs
 
 Welcome to **Coding Beyond Borders and Bugs** – a responsive, multipage blog website that celebrates tech journeys, coding adventures, and the inspiration behind innovative software development.
 
@@ -73,17 +73,17 @@ To run this project locally, follow these steps:
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/coding-beyond-borders-and-bugs.git
+   git clone https://github.com/yourusername/CodingBeyondBugs.git
    cd coding-beyond-borders-and-bugs
 Open the Project:
 
-Open index.html in your web browser. We recommend using the Live Server extension in VS Code for a smooth local development experience.
+Open index.html in your web browser. For a smooth local development experience, we recommend using the Live Server extension in VS Code.
 
 Explore the Website:
 
 Navigate between the Home and Story pages using the built-in navigation menu.
 
-Interact with dynamic elements such as updating the header subtitle, changing header color, and cycling through images by clicking on the hero image.
+Click on the hero image to interact with dynamic elements such as updating the header subtitle, changing the header color, and cycling through images.
 
 (Optional) Test form functionality on the Sign Up page if integrated.
 
